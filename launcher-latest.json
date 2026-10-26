@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "version": "0.3.0",
+  "build": 2026102601,
+  "platform": "windows-x64",
+  "url": "https://github.com/Fitschii/tower-ascension-launcher/releases/download/v0.3.0/LauncherNeu.exe",
+  "sha256": "a7dcdf8184709eba7656e2fa9205b274361f71dc0fb11ff43c9ee63d9cba3599",
+  "size": 5591431,
+  "notes": "Radical Hub: neue Spielbibliothek, Hell-/Dunkelmodus und eigene Launcher-Updates."
+}
